@@ -2,7 +2,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções através de softwares.
 - 🎓 &nbsp; Estudando **Banco de Dados** na <a href="http://fatecbauru.edu.br/" target="_blank">FATEC-Bauru</a>.
 - 💼 &nbsp; Trabalhando como Dev Frontend na <a href="https://eadplataforma.com/" target="_blank">EadPlataforma</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Spring boot, ReactJS, NodeJS, DevOps**.
